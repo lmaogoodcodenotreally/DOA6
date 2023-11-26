@@ -32,7 +32,7 @@ There'll be about 5 results.
 ```assembly
 C7 44 ** ** 80 07.
 ``` 
-The 80 07 is what we need to change to:
+The `80 07` is what we need to change to:
 ```assembly
 14 0A for 3440x1440, or
 
@@ -64,7 +64,7 @@ Then, look carefully at the highlighted row. A few addresses underneath it, ther
 ```assembly
 mov dword ptr ss:[rsp+30],320
 ```
-Select that row, and then Edit it (ctrl+e); we need to change from:
+Select that row, and then Edit it `(CTRL+E)`; we need to change from:
 ```assembly
 C7 44 24 30 20 03 00 00 
 ```
@@ -77,7 +77,7 @@ Then, underneath that row there'll be another row with
 ```assembly
 mov dword ptr ss:[rsp+34],1C2
 ```
-Select that row, and then Edit it (ctrl+e); we need to change from:
+Select that row, and then Edit it `(CTRL+E)`; we need to change from:
 ```assembly
 C7 44 24 34 C2 01 00 00
 ```
@@ -86,7 +86,7 @@ to:
 C7 44 24 34 A0 05 00 00 for 3440x1440, or
 C7 44 24 34 38 04 00 00 for 2560x1080
 ```
-Those rows from step 3 and 4 should now end with D70 and 5A0 or A00 and 438 instead of 320 and 1C2 respectively and depending on your resolution choice.
+Those rows from step 3 and 4 should now end with `D70` and `5A0` or `A00` and `438` instead of `320` and `1C2` respectively and depending on your resolution choice.
 
 # Credits
 
