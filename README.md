@@ -12,6 +12,20 @@ I have limited knowledge of copyright matters, and I'm indifferent, but please a
 If you plan to create a patch yourself, check the credits; the Reddit thread contains the most up-to-date patterns.*
 
 
+
+# Installation
+
+Default steam path `C:\Program Files (x86)\Steam\steamapps\common\Dead or Alive 6\`
+- Simply open game folder then locate and backup your `DOA6.exe`.
+- Then place `DOA6-{version}.exe` to your game folder, rename it to `DOA6.exe` and run it.
+`DOA6-low-res.exe` for low resolution executable and `DOA6-3440x1440.exe` for `3440x1440 21:9`
+
+If you encouter any errors, open Steam and go to `Dead or Alive 6` right click for `Propreties > Installed Files > Verify integrity of game files`
+Or just backup your original `DOA6.exe`.
+Never got issue with it and I don't think any update will ever release again for the game so you're fine using this if you install it proprely.
+
+
+
 # Modified const & patterns
 
 **Patching constant**
