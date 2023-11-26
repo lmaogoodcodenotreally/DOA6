@@ -5,6 +5,7 @@ Modified binaries for Dead Or Alive 6 (Steam)
 # Modified const & patterns
 
 **Patching constant**
+
 Modify `const 3FE38E39` in `doa6.exe` module
 
 ```assembly
