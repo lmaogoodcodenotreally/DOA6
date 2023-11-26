@@ -1,6 +1,9 @@
 # DOA6
 **Modified binaries for Dead Or Alive 6 (Steam)**
 
+Note: I know the patch only works during gameplay, this will mostly not affect anything in MainMenu (except low res ofc)
+
+
 *Disclaimer:
 This is not the complete game but an unpacked version of `DOA6.exe`. It is essential to own a valid DOA6 copy for this to work.
 I do not take responsibility for the usage of this .exe. Its sole purpose is to modify the internal aspect ratio from `16:9` to `21:9` for widescreen support.
