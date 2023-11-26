@@ -2,7 +2,7 @@
 **Modified binaries for Dead Or Alive 6 (Steam)**
 > **Note:**
 > I am aware that the patch only works during gameplay. It should not significantly affect anything in the MainMenu (except for low resolution, of course).
-
+ 
 
 *Disclaimer:
 This is not the complete game but an unpacked version of `DOA6.exe`. It is essential to own a valid DOA6 copy for this to work.
