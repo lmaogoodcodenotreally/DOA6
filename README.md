@@ -1,5 +1,12 @@
 # DOA6
-Modified binaries for Dead Or Alive 6 (Steam)
+**Modified binaries for Dead Or Alive 6 (Steam)**
+
+*Disclaimer:
+This is not the complete game but an unpacked version of `DOA6.exe`. It is essential to own a valid DOA6 copy for this to work.
+I do not take responsibility for the usage of this .exe. Its sole purpose is to modify the internal aspect ratio from `16:9` to `21:9` for widescreen support.
+Please refrain from redistributing without linking to this repository or previous threads. It's crucial for individuals to create their own game patch if they choose to do so.
+I have limited knowledge of copyright matters, and I'm indifferent, but please avoid reusing this without referencing the sources.
+If you plan to create a patch yourself, check the credits; the Reddit thread contains the most up-to-date patterns.*
 
 
 # Modified const & patterns
