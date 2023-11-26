@@ -1,7 +1,7 @@
 # DOA6
 **Modified binaries for Dead Or Alive 6 (Steam)**
-> i
-> Note: I know the patch only works during gameplay, this will mostly not affect anything in MainMenu (except low res ofc)
+> **Note:**
+> I am aware that the patch only works during gameplay. It should not significantly affect anything in the MainMenu (except for low resolution, of course).
 
 
 *Disclaimer:
