@@ -28,6 +28,21 @@ Never got issue with it and I don't think any update will ever release again for
 
 
 
+# Unpacking&Repacking
+
+- Unpacked SteamStub 3.1.x
+- Modified Assembly
+- Repacked with UPX
+```
+        File size         Ratio      Format      Name
+   --------------------   ------   -----------   -----------
+  44227728 ->  13027984   29.46%    win64/pe     DOA6.exe                                                            
+Packed 1 file.
+
+
+Removed: 29.8 MB
+```
+
 # Modified const & patterns
 
 **Patching constant**
