@@ -1,4 +1,4 @@
-# DOA6
+# Dead or Alive 6, 21:9 fix + reduced size
 **Modified binaries for Dead Or Alive 6 (Steam)**
 > **Note:**
 > I am aware that the patch only works during gameplay. It should not significantly affect anything in the MainMenu (except for low resolution, of course).
