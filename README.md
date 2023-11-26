@@ -17,6 +17,8 @@ If you plan to create a patch yourself, check the credits; the Reddit thread con
 
 Default steam path `C:\Program Files (x86)\Steam\steamapps\common\Dead or Alive 6\`
 - Simply open game folder then locate and backup your `DOA6.exe`.
+- Download the version you want for your game [here]([URL](https://github.com/lmaogoodcodenotreally/DOA6/releases/latest))
+
 - Then place `DOA6-{version}.exe` to your game folder, rename it to `DOA6.exe` and run it.
 `DOA6-low-res.exe` for low resolution executable and `DOA6-3440x1440.exe` for `3440x1440 21:9`
 
