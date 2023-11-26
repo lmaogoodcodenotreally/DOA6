@@ -30,9 +30,9 @@ Never got issue with it and I don't think any update will ever release again for
 
 # Unpacking&Repacking
 
-- Unpacked SteamStub 3.1.x
-- Modified Assembly
-- Repacked with UPX
+- Unpacked SteamStub 3.1.x (using Steamless)
+- Modified Assembly (x64dbg)
+- Repacked with UPX (upx)
 ```
         File size         Ratio      Format      Name
    --------------------   ------   -----------   -----------
