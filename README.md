@@ -1,3 +1,8 @@
+# I HAVENT UPDATED THIS SINCE A WHILE BC DOA6 IS TRASH AND NOW THERES RECOMP SO WE DONT HAVE TO DEAL WITH SHITTY DOA6 AND INSTEAD U CAN JUST GO PLAY DOA4 RECOMP OR DOA3 RECOMP
+# NO ETA FOR UPDATE (IF I EVER UPDATE)
+# Even with the latest update, core logic likely didn't change and the process is the same, hardcoded offsets will most likely NOT work, you'll most likely have to redo from scratch using patterns
+
+
 # Dead or Alive 6, 21:9 fix + reduced size
 **Modified binaries for Dead Or Alive 6 (Steam)**
 > **Note:**
