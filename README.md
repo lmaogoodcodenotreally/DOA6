@@ -141,6 +141,7 @@ Those rows from step 3 and 4 should now end with `D70` and `5A0` or `A00` and `4
 
 # Credits
 
+https://github.com/K0oRui/Steamless-KR
 
 Huge thanks to
 https://www.wsgf.org/phpBB3/viewtopic.php?f=64&t=33019 (jackfuste post)
