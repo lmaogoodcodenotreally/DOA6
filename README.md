@@ -140,10 +140,8 @@ C7 44 24 34 38 04 00 00 for 2560x1080
 Those rows from step 3 and 4 should now end with `D70` and `5A0` or `A00` and `438` instead of `320` and `1C2` respectively and depending on your resolution choice.
 
 # Credits
-
-https://github.com/K0oRui/Steamless-KR
-
-Huge thanks to
-https://www.wsgf.org/phpBB3/viewtopic.php?f=64&t=33019 (jackfuste post)
-and
-https://www.reddit.com/r/widescreengamingforum/comments/12t9w60/dead_or_alive_6_v122a_ultrawide_hack/
+> Steamless (for unpacking)
+- https://github.com/K0oRui/Steamless-KR
+> Guides (patch process)
+- https://www.wsgf.org/phpBB3/viewtopic.php?f=64&t=33019
+- https://www.reddit.com/r/widescreengamingforum/comments/12t9w60/dead_or_alive_6_v122a_ultrawide_hack/
